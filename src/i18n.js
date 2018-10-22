@@ -2,10 +2,10 @@ export default {
   en: {
     dayNames: ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
     monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
-    format: 'MM/yyyy',
-    fullFormat: 'dd/MM/yyyy',
-    dayEventsTitle: 'All Events',
-    notHaveEvents: 'Not Have Events'
+    format: 'MMMM yyyy',
+    fullFormat: 'yyyy-MM-dd',
+    dayEventsTitle: 'Episodes',
+    notHaveEvents: 'No episodes to show.'
   },
   zh: {
     dayNames: ["日", "一", "二", "三", "四", "五", "六"],
